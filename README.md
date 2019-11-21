@@ -1,4 +1,4 @@
-# umi-plugin-react-router-4
+# umi-plugin-react-router-four
 
 [![NPM version](https://img.shields.io/npm/v/umi-plugin-react-router-4.svg?style=flat)](https://npmjs.org/package/umi-plugin-react-router-4)
 [![NPM downloads](http://img.shields.io/npm/dm/umi-plugin-react-router-4.svg?style=flat)](https://npmjs.org/package/umi-plugin-react-router-4)
