@@ -1,14 +1,14 @@
 {
-  "name": "umi-plugin-react-router-4",
+  "name": "umi-plugin-react-router-four",
   "version": "1.0.0",
   "description": "Use react router 4 for compatibility consideration.",
-  "homepage": "https://github.com/umijs/umi-plugin-react-router-4",
+  "homepage": "https://github.com/umijs/umi-plugin-react-router-four",
   "bugs": {
-    "url": "https://github.com/umijs/umi-plugin-react-router-4/issues"
+    "url": "https://github.com/umijs/umi-plugin-react-router-four/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-plugin-react-router-4"
+    "url": "https://github.com/umijs/umi-plugin-react-router-four"
   },
   "authors": [
     "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
