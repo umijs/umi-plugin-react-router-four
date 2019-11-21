@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-react-router-4",
-  "version": "0.0.1-alhpa.1",
+  "version": "1.0.0",
   "description": "Use react router 4 for compatibility consideration.",
   "homepage": "https://github.com/umijs/umi-plugin-react-router-4",
   "bugs": {
