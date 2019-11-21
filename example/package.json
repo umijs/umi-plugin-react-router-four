@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "umi dev"
+  },
+  "devDependencies": {
+    "umi-plugin-react-router-4": "link:../"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
